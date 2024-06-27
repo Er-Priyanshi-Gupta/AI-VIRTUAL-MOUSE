@@ -1,0 +1,2 @@
+# AI VIRTUAL MOUSE
+ The AI Virtual Mouse is an innovative tool that allows users to control their computer's cursor using gestures. By leveraging advanced AI algorithms and computer vision, this virtual mouse offers a seamless and touch-free interaction experience. Ideal for presentations, accessibility solutions, and enhancing productivity, the AI Virtual Mouse redefines how we interact with our digital devices, providing precision and ease of use in a compact and efficient design.
