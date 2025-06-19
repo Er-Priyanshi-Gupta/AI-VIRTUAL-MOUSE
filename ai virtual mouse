@@ -1,7 +1,8 @@
 
 
-import cv2
+import cv2 #camera
 import mediapipe as mp 
+#The MediaPipe framework is mainly used for rapid prototyping of perception pipelines with AI models 
 # for inferencing and other reusable component.
 import pyautogui 
 #Python's pyautogui is a package that allows users to create scripts that can 
